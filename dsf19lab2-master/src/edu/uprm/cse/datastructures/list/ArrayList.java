@@ -9,6 +9,7 @@ public class ArrayList<E> implements List<E> {
 		private int currentPosition;
 		
 		
+		
 
 		public ArrayListIterator() {
 			super();
